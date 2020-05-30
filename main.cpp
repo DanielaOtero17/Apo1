@@ -14,7 +14,7 @@ int main(int argc, char *argv[])
 
 		for(int j=0;j<columnas;j++){
 
-        	printf("ingrese el numero [%i%s%i%s",i,"][",j,"]\n");
+        	printf("ingrese el numero [%i%s%i%s",i,"][",j,"]4\n");
 			scanf("%d",&numeros[i][j]);
 		}
 	}

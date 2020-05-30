@@ -30,7 +30,7 @@ CompilerSet=0
 CompilerSettings=00000000000000000000000
 
 [Unit1]
-FileName=main.cpp
+FileName=main.c
 CompileCpp=0
 Folder=
 Compile=1
